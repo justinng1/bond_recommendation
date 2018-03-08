@@ -21,7 +21,9 @@
 4. Generate bond yield based on risk level, maturity and treasury yield.
 5. Generate bond sector based on preferences.
 
-
+## Recommendation Engines
+- bond_trade1.ipynb contains BI Report and content based filtering techniques.
+- bond_trade2.ipynb contains implicit/explicit Matrix factorization using Spark ML.
 
 ## references
 Collaborative Filtering for Implicit Feedback Datasets: http://yifanhu.net/PUB/cf.pdf
